@@ -1,5 +1,5 @@
 # react-laravel-auth
-A basic authentication application with Reactjs frontend + Laravel api.This application basic auth flows like login , register, reset password, forgot password .
+A basic authentication application with Reactjs frontend + Laravel api.This application covers basic auth flows like login , register, reset password, forgot password .
 
 Please follow the below steps to run the project.This steps are for those who have laravel , composer and node installed in your local machine.If not, please proceed with the steps after installing the same.
 
